@@ -1,0 +1,2 @@
+# hofo
+Student events
